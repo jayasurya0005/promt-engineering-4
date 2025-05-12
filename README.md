@@ -1,7 +1,7 @@
 # EXPERIMENT NUMBER :4
 
 # Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-
+ 
 ## Case Study 2 with Comparative Analysis and Prompt Size Limitations
 
 
