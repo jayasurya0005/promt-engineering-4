@@ -1,6 +1,16 @@
-# promt-engineering-4
+# EXPERIMENT NUMBER :4
+
 # Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+
 ## Case Study 2 with Comparative Analysis and Prompt Size Limitations
+
+
+**DATE :**
+
+**REGISTER NUMBER : 212222060093**
+
+**DEVELOPED BY : JAYASURYA S**
+
 ---
 **AIM:** 
    Developing an AI-Based Predictive Maintenance System for Manufacturing Equipment  
